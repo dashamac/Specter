@@ -1,0 +1,9 @@
+﻿  main.cpp
+  communication.cpp
+  handler.cpp
+  cr3_decryption.cpp
+  interrupts.cpp
+  logging.cpp
+  offset_resolver.cpp
+  physmem.cpp
+  project_utility.cpp
