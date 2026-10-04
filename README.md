@@ -1,4 +1,4 @@
-# FUSE Driver
+# Specter Driver
 
 A Windows kernel mode driver implementing physical memory manipulation, CR3 (page table root) management, and user mode communication capabilities.
 
